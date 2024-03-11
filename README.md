@@ -20,7 +20,7 @@ To run this project, install it locally cloning repo, than using next configurat
 > ./ mac_changer.py -i eth0 -r 00:2w:33:4c:55:6d
 ```
 
-![Principle of command](./ReadmeMaterials/mac_changer.gif)
+![Principle of command](./ReadmeMaterials/mac_changer.mp4)
 
 ---
 
